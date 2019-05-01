@@ -1,1 +1,7 @@
-flask
+flask==1.0.2
+flask-sqlalchemy==2.4.0
+flask-script==2.0.6
+flask-wtf==0.14.2
+flask-login==0.4.1
+pymysql==0.9.3
+bcrypt==3.1.6
